@@ -8,7 +8,6 @@
   
   You may submit incomplete solutions so long as you include a README.md in the challenge subdirectory indicating what was completed and what is outstanding. 
   
-
 ### Submission Instructions
   
   Create a subdirectory in this project for each challenge you complete. Ensure that each directory contains a RUNBOOK.md file that contains detailed instructions on how to run your solution. 
